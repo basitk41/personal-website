@@ -1,0 +1,306 @@
+{
+  "common": {
+    "language": "Language",
+    "getInTouch": "Get in touch",
+    "viewMyWork": "View my work",
+    "backToTop": "Back to top",
+    "scrolldown": "Scroll down",
+    "role": "Senior Engineer, Full Stack",
+    "languages": "Languages",
+    "english": "English",
+    "german": "German",
+    "urdu": "Urdu",
+    "fluent": "Full Professional Proficiency",
+    "native": "Native or Bilingual Proficiency",
+    "beginner": "Elementary Proficiency",
+    "all": "All"
+  },
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "resume": "Resume",
+    "contact": "Contact",
+    "blog": "Blog",
+    "projects": "Projects",
+    "experience": "Experience",
+    "skills": "Skills"
+  },
+  "hero": {
+    "hello": "Hi there, I'm",
+    "job": "Senior Engineer, Full Stack",
+    "description": "Frontend-focused Fullstack JavaScript Developer with 6+ years of experience creating scalable, reliable applications using JavaScript, TypeScript, React, Node.js, and related ecosystems. Adept at bridging design and engineering teams, I deliver solutions aligned with best practices like TDD, DRY, KISS, and SOLID principles. Skilled in building user-centric applications and optimizing development workflows for maximum efficiency."
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Turning complex ideas into elegant and user-friendly web applications",
+    "description1": "Hi, I’m <b class='text-primary'>Basit Ali</b>, a Berlin-based <b class='text-primary'>Frontend-focused Fullstack JavaScript Developer</b> passionate about crafting modern, scalable web applications. With over 6 years of experience, I specialize in leveraging the power of <b class='text-primary'>JavaScript</b> and <b class='text-primary'>TypeScript</b> to create user-friendly, efficient, and reliable digital solutions.",
+    "my-core-expertise": {
+      "title": "My Core Expertise",
+      "data": [
+        {
+          "title": "Frontend Development",
+          "description": "Building responsive, visually appealing user interfaces using <b class='text-primary'>React.js</b>, ensuring seamless interactions and exceptional user experiences across all devices."
+        },
+        {
+          "title": "Backend Development",
+          "description": "Engineering robust APIs and scalable server-side architectures with <b class='text-primary'>Node.js</b>, <b class='text-primary'>NestJS</b>, and <b class='text-primary'>Express.js</b>, while leveraging modern tools like <b class='text-primary'>Prisma</b> for efficient database management.."
+        },
+        {
+          "title": "Database Technologies",
+          "description": "Skilled in working with relational and non-relational databases, including <b class='text-primary'>MySQL</b>, <b class='text-primary'>Postgres</b>, and <b class='text-primary'>DynamoDB</b>, to ensure optimal data integrity and performance."
+        },
+        {
+          "title": "Ecosystem Mastery",
+          "description": "Proficient in working with state management tools (like Redux, Context API), component libraries, and bundlers (like Webpack, Vite)."
+        },
+        {
+          "title": "Testing & Optimization",
+          "description": "Proficient in testing and optimizing web applications for maximum performance, accessibility, and user satisfaction."
+        }
+      ]
+    },
+    "what-sets-me-apart": {
+      "title": "What Sets Me Apart",
+      "data": [
+        {
+          "title": "Bridging Design & Development",
+          "description": "Collaborating with design teams to translate concepts into fully functional, pixel-perfect implementations while maintaining accessibility standards."
+        },
+        {
+          "title": "AI & Workflow Optimization Enthusiast",
+          "description": "Exploring the latest advancements in <b class='text-primary'>AI</b>, <b class='text-primary'>Generative AI</b>, <b class='text-primary'>LLMs</b>, and <b class='text-primary'>N8N workflows</b> to integrate cutting-edge technologies into practical, daily applications."
+        },
+        {
+          "title": "Problem Solver at Heart",
+          "description": "From debugging complex systems to optimizing performance, I thrive on tackling challenges with innovative, effective solutions."
+        },
+        {
+          "title": "Best Practices & Collaboration",
+          "description": "With a strong commitment to principles like <b class='text-primary'>TDD</b>, <b class='text-primary'>DRY</b>, <b class='text-primary'>KISS</b>, and <b class='text-primary'>SOLID</b>, I ensure code quality and maintainability. I value teamwork and believe collaboration is the cornerstone of successful software development."
+        }
+      ]
+    },
+    "love-to-do": {
+      "title": "Why I Love What I Do",
+      "description": "Web development isn’t just a job; it’s a creative outlet that lets me blend technical expertise with imaginative problem-solving. I’m motivated by the opportunity to improve lives through technology, one line of code at a time."
+    },
+    "beyond-work": {
+      "title": "Beyond Work",
+      "description": [
+        "I’m deeply interested in the transformative power of <b class='text-primary'>AI</b>, <b class='text-primary'>Generative AI</b>, and <b class='text-primary'>LLMs</b>, exploring their potential to enhance workflows and solve real-world problems. Tools like <b class='text-primary'>N8N workflows</b> excite me, as they bring automation and intelligence to everyday tasks. Outside of tech, I enjoy diving into <b class='text-primary'>Pashto poetry</b>, volunteering for meaningful causes, and constantly experimenting with new frameworks to stay ahead in this ever-evolving field.",
+        "I’m always excited to take on new challenges, collaborate with like-minded professionals, and contribute to impactful projects. Let’s create something incredible together!"
+      ]
+    },
+    "card1": {
+      "title": "Frontend Development",
+      "description": "Building scalable, responsive web applications using React, Next.js, TypeScript, and Redux."
+    },
+    "card6": {
+      "title": "UI Components",
+      "description": "Creating reusable UI components with Bootstrap, Tailwind, MUI, and Ant CSS in JS libraries."
+    },
+    "card3": {
+      "title": "User Experience",
+      "description": "Developing smooth, user-friendly interfaces that prioritize accessibility and performance."
+    },
+    "card4": {
+      "title": "Testing & Optimization",
+      "description": "Implementing comprehensive testing and performance optimization using Jest, Cypress, and various tools."
+    },
+    "card5": {
+      "title": "Database Management",
+      "description": "Designing and managing scalable databases using MySQL, Postgres, DynamoDB, and Prisma ORM."
+    },
+    "card2": {
+      "title": "Backend Development",
+      "description": "Building secure and efficient APIs using Node.js, Express, and NestJS, ensuring seamless integration."
+    },
+    "card7": {
+      "title": "Security & Authentication",
+      "description": "Implementing robust authentication, authorization, and data protection strategies using JWT, OAuth, and more."
+    },
+    "card8": {
+      "title": "Cloud & DevOps",
+      "description": "Deploying applications using containerization with Docker and managing CI/CD pipelines for smooth delivery."
+    },
+    "card9": {
+      "title": "Workflow Automation",
+      "description": "Streamlining processes and automating workflows using tools like N8N, AI integrations, and scripts."
+    },
+    "card10": {
+      "title": "AI & Generative Models",
+      "description": "Exploring AI, Generative AI, and LLMs to create smarter, data-driven solutions for modern applications."
+    }
+  },
+  "footer": {
+    "allRightsReserved": "All rights reserved.",
+    "developedBy": "Developed by"
+  },
+  "contact": {
+    "title": "Let's Work Together",
+    "description": "I'm always open to discussing new projects, creative ideas or opportunities to be part of your vision.",
+    "contactInfo": "Contact Information",
+    "contactInfoDescription": "Feel free to contact me through any of the following methods or fill out the form. I'll get back to you as soon as possible.",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "yourName": "Your Name",
+    "yourEmail": "Your Email",
+    "yourMessage": "Your Message",
+    "messagePlaceholder": "Hello, I'd like to talk about...",
+    "sendMessage": "Send Message",
+    "sendMeAMessage": "Send me a message",
+    "workingHours": "Working Hours",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "closed": "Closed",
+    "messageSent": "Message Sent!",
+    "messageSentDescription": "Thank you for reaching out. I'll get back to you as soon as possible!",
+    "sending": "Sending..."
+  },
+  "education": {
+    "title": "Education & Awards",
+    "subtitle": "Academic Background",
+    "card1": {
+      "title": "Bachelor of Science in Computer Science",
+      "subtitle": "Islamia College University Peshawar",
+      "description": "I earned my degree with a 3.89 CGPA, and was honored as the Gold Medalist of my batch."
+    },
+    "card2": {
+      "title": "Gold Medalist",
+      "subtitle": "Highest Academic Achievement",
+      "description": "Awarded the Gold Medal for achieving the highest CGPA in my graduating class at Islamia College University Peshawar."
+    },
+    "card3": {
+      "title": "Gen AI, Cybersecurity, and DevOps Training",
+      "subtitle": "S&P Global",
+      "description": "Completed a comprehensive training on Gen AI, cybersecurity, and DevOps at S&P Global."
+    },
+    "card4": {
+      "title": "Expertise in Cloud Computing, AI/ML, and Risk Compliance",
+      "subtitle": "S&P Global",
+      "description": "Acquired expertise in cloud computing, AI/ML, and risk compliance at S&P Global."
+    }
+  },
+  "experience": {
+    "title": "Work Experience",
+    "subtitle": "Where I've Worked",
+    "description": "I've had the opportunity to work with some amazing companies. Here's a quick overview of my professional journey.",
+    "keyAchievements": "Key Achievements",
+    "sp-global": {
+      "title": "Frontend Developer",
+      "company": "S&P Global",
+      "location": "Remote",
+      "type": "Full-time",
+      "period": "2023 - Present",
+      "description": "S&P Global provides market data, technology solutions, and financial insights to businesses and governments worldwide.",
+      "responsibilities": [
+        "Developed responsive, user-friendly web applications using React, Next.js, TypeScript, and Redux.",
+        "Implemented complex UI components using Bootstrap, Tailwind, MUI, and Ant CSS in JS libraries.",
+        "Optimized performance and accessibility of the user interface.",
+        "Implemented comprehensive testing and performance optimization using Jest, Cypress, and various tools.",
+        "Collaborated with cross-functional teams to deliver high-quality software solutions.",
+        "Participated in code reviews and provided constructive feedback to fellow developers.",
+        "Implement state management with Redux, Context API & React Query for enhanced performance and accessibility.",
+        "Lead Agile development with daily scrums, ensuring seamless collaboration across teams.",
+        "Contribute to Capital IQ Pro, a premier financial intelligence platform, by developing scalable, modular frontends."
+      ]
+    },
+    "iplex": {
+      "title": "Frontend Developer",
+      "company": "iPlex",
+      "location": "Islamabad",
+      "type": "Full-time",
+      "period": "2019 - 2023",
+      "description": "iPlex is a top-rated digital agency specializing in software development, web applications, and digital marketing for businesses in the U.S.",
+      "responsibilities": [
+        "Developed and maintained React-based applications with a focus on performance, UX, and cross-platform compatibility.",
+        "Created scalable, themable web applications for easy project replication.",
+        "Implemented complex UI components using Bootstrap, Tailwind, MUI, and Ant CSS in JS libraries.",
+        "Conducted daily code reviews to ensure stability, performance, and adherence to Agile methodologies.",
+        "Led frontend development for Al Habib Pharmacy E-commerce Platform using Next.js, TypeScript, and Tailwind CSS.",
+        "Developed a centralized data management system for Salam Telecom DMS Portal for transactions, balance recharges, and user activity."
+      ]
+    }
+  },
+  "skills": {
+    "title": "My Expertise",
+    "subtitle": "Technical Skills and Expertise",
+    "description": "My technical toolkit has been refined over 6+ years of professional experience, focusing on both frontend and backend technologies, as well as modern development practices. Here’s a comprehensive overview of the skills and expertise I bring to the table:",
+    "frontend": "Frontend Frameworks & Libraries",
+    "ui": "UI & Styling",
+    "state": "State Management & Data Fetching",
+    "testing": "Testing & Dev Tools",
+    "frontendArchitecture": "Architecture",
+    "buildTools": "Build & Performance Optimization",
+    "backend": "Backend Frameworks & Libraries",
+    "database": "Databases",
+    "security": "Security & Authentication",
+    "devOps": "DevOps & Deployment",
+    "workflowAutomation": "Workflow Automation",
+    "ai": "AI & Generative Models",
+    "level": ["Beginner", "Basic", "Intermediate", "Advanced", "Expert"]
+  },
+  "projects": {
+    "title": "Portfolio",
+    "subtitle": "Featured Projects",
+    "description": "A selection of my recent work and personal projects showcasing my skills and experience.",
+    "capital-iq-pro": {
+      "title": "Capital IQ Pro",
+      "description": "Premier financial intelligence platform with modular frontend architecture, real-time market data, and interactive visualizations."
+    },
+    "al-habib-pharmacy": {
+      "title": "Al Habib Pharmacy E-commerce",
+      "description": "Full-featured e-commerce platform for a pharmacy with product catalog, user accounts, and prescription management."
+    },
+    "salam-telecom-dms": {
+      "title": "Salam Telecom DMS Portal",
+      "description": "Centralized data management system for telecom transactions, balance recharges, and user activity tracking."
+    },
+    "market-data-dashboard": {
+      "title": "Market Data Dashboard",
+      "description": "Real-time financial market data visualization dashboard with interactive charts and customizable widgets."
+    },
+    "personal-website": {
+      "title": "Personal Portfolio",
+      "description": "Responsive portfolio website with modern animations, interactions, and optimized performance."
+    },
+    "expense-tracker": {
+      "title": "Expense Tracker App",
+      "description": "Personal finance application with budgeting, expense categorization, and visualization features."
+    },
+    "salam-telecom-dashboard": {
+      "title": "Salam Telecom Dashboard",
+      "description": "Real-time dashboard for telecom transactions, balance recharges, and user activity tracking."
+    },
+    "personal-website-2": {
+      "title": "Personal Portfolio V2",
+      "description": "Responsive portfolio website with modern animations, interactions, and optimized performance."
+    },
+    "job-copilot": {
+      "title": "Job Copilot",
+      "description": "The Job Copilot is an intelligent job application assistant that helps you track, manage, and automate your job search. Whether you're applying to multiple positions or following up on leads, this tool keeps everything organized in one place."
+    },
+    "quantum": {
+      "title": "Quantum Trading Platform",
+      "description": "A fintech trading platform featuring real-time data visualization, WebSockets, and machine learning integrations."
+    },
+    "smart-home": {
+      "title": "Smart Home Automation",
+      "description": "The Smart Home Automation platform enables users to control and monitor their smart home devices effortlessly. With real-time updates, scheduling automation, and voice assistant integration, it provides a seamless and intelligent home management experience."
+    },
+    "talent-matrix": {
+      "title": "Talent Matrix",
+      "description": "Talent Matrix is a modern HR job posting and application tracking system designed to simplify recruitment workflows. Whether you're an HR professional, hiring manager, or recruiter, Talent Matrix streamlines job postings, tracks applications, and enhances hiring efficiency with a user-friendly interface."
+    },
+    "impact-cv": {
+      "title": "Impact CV",
+      "description": "ImpactCV is a modern, intuitive, and user-friendly web application designed to empower you to create professional and impactful resumes (CVs) with ease. Whether you're just starting your career or looking to make a change, ImpactCV provides the tools and flexibility you need to showcase your skills and experience effectively."
+    }
+  }
+}

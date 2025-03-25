@@ -1,0 +1,312 @@
+{
+  "common": {
+    "language": "Sprache",
+    "getInTouch": "Kontakt aufnehmen",
+    "viewMyWork": "Meine Arbeit ansehen",
+    "backToTop": "Zurück nach oben",
+    "scrolldown": "Nach unten scrollen",
+    "role": "Senior Engineer, Full Stack",
+    "languages": "Sprachen",
+    "english": "Englisch",
+    "german": "Deutsch",
+    "urdu": "Urdu",
+    "fluent": "Volle berufliche Kompetenz",
+    "native": "Muttersprachliche Kompetenz",
+    "beginner": "Grundlegende Kompetenz",
+    "all": "Alle"
+  },
+  "header": {
+    "home": "Startseite",
+    "about": "Über mich",
+    "resume": "Lebenslauf",
+    "contact": "Kontakt",
+    "blog": "Blog",
+    "projects": "Projekte",
+    "experience": "Berufserfahrung",
+    "skills": "Fähigkeiten"
+  },
+  "hero": {
+    "hello": "Hallo, ich bin",
+    "job": "Senior Engineer, Full Stack",
+    "description": "Frontend-orientierter Fullstack-JavaScript-Entwickler mit mehr als 6 Jahren Erfahrung in der Erstellung skalierbarer, zuverlässiger Anwendungen mit JavaScript, TypeScript, React, Node.js und verwandten Ökosystemen. Ich bin geschickt darin, Design- und Entwicklungsteams zu verbinden und Lösungen zu liefern, die mit Best Practices wie TDD, DRY, KISS und SOLID-Prinzipien übereinstimmen. Ich bin erfahren im Aufbau benutzerzentrierter Anwendungen und in der Optimierung von Entwicklungsabläufen für maximale Effizienz."
+  },
+  "about": {
+    "title": "Über mich",
+    "subtitle": "Komplexe Ideen in elegante und benutzerfreundliche Webanwendungen verwandeln",
+    "description1": "Hallo, ich bin <b class='text-primary'>Basit Ali</b>, ein in Berlin ansässiger <b class='text-primary'>Frontend-orientierter Fullstack-JavaScript-Entwickler</b>, der sich leidenschaftlich für die Erstellung moderner, skalierbarer Webanwendungen einsetzt. Mit mehr als 6 Jahren Erfahrung spezialisiere ich mich auf die Nutzung der Leistungsfähigkeit von <b class='text-primary'>JavaScript</b> und <b class='text-primary'>TypeScript</b>, um benutzerfreundliche, effiziente und zuverlässige digitale Lösungen zu schaffen.",
+    "my-core-expertise": {
+      "title": "Meine Kernkompetenzen",
+      "data": [
+        {
+          "title": "Frontend-Entwicklung",
+          "description": "Erstellung responsiver, visuell ansprechender Benutzeroberflächen mit <b class='text-primary'>React.js</b>, die nahtlose Interaktionen und ein herausragendes Nutzererlebnis auf allen Geräten gewährleisten."
+        },
+        {
+          "title": "Backend-Entwicklung",
+          "description": "Entwicklung robuster APIs und skalierbarer Server-seitiger Architekturen mit <b class='text-primary'>Node.js</b>, <b class='text-primary'>NestJS</b> und <b class='text-primary'>Express.js</b> unter Verwendung moderner Tools wie <b class='text-primary'>Prisma</b> für effizientes Datenbankmanagement."
+        },
+        {
+          "title": "Datenbanktechnologien",
+          "description": "Erfahrung im Umgang mit relationalen und nicht-relationalen Datenbanken, einschließlich <b class='text-primary'>MySQL</b>, <b class='text-primary'>Postgres</b> und <b class='text-primary'>DynamoDB</b>, um optimale Datenintegrität und Leistung zu gewährleisten."
+        },
+        {
+          "title": "Ökosystem-Beherrschung",
+          "description": "Kenntnisse im Umgang mit State-Management-Tools (wie Redux, Context API), Komponentenbibliotheken und Bundlern (wie Webpack, Vite)."
+        },
+        {
+          "title": "Tests & Optimierung",
+          "description": "Erfahrung im Testen und Optimieren von Webanwendungen für maximale Leistung, Barrierefreiheit und Benutzerzufriedenheit."
+        }
+      ]
+    },
+    "what-sets-me-apart": {
+      "title": "Was mich auszeichnet",
+      "data": [
+        {
+          "title": "Brücke zwischen Design & Entwicklung",
+          "description": "Zusammenarbeit mit Designteams, um Konzepte in voll funktionsfähige, pixelgenaue Implementierungen umzusetzen, die gleichzeitig die Standards für Barrierefreiheit einhalten."
+        },
+        {
+          "title": "Enthusiast für KI & Workflow-Optimierung",
+          "description": "Erkundung der neuesten Fortschritte in <b class='text-primary'>KI</b>, <b class='text-primary'>Generativer KI</b>, <b class='text-primary'>LLMs</b> und <b class='text-primary'>N8N-Workflows</b>, um modernste Technologien in praktische, tägliche Anwendungen zu integrieren."
+        },
+        {
+          "title": "Problemlöser aus Leidenschaft",
+          "description": "Vom Debuggen komplexer Systeme bis zur Leistungsoptimierung - ich liebe es, Herausforderungen mit innovativen, effektiven Lösungen anzugehen."
+        },
+        {
+          "title": "Best Practices & Zusammenarbeit",
+          "description": "Mit einem starken Engagement für Prinzipien wie <b class='text-primary'>TDD</b>, <b class='text-primary'>DRY</b>, <b class='text-primary'>KISS</b> und <b class='text-primary'>SOLID</b> sorge ich für Codequalität und Wartbarkeit. Ich schätze Teamarbeit und glaube, dass Zusammenarbeit der Grundstein für erfolgreiche Softwareentwicklung ist."
+        }
+      ]
+    },
+    "love-to-do": {
+      "title": "Warum ich liebe, was ich tue",
+      "description": "Webentwicklung ist nicht nur ein Job; es ist ein kreatives Ventil, das es mir ermöglicht, technisches Fachwissen mit kreativer Problemlösung zu verbinden. Ich bin motiviert durch die Möglichkeit, Leben durch Technologie zu verbessern, eine Codezeile nach der anderen."
+    },
+    "beyond-work": {
+      "title": "Außerhalb der Arbeit",
+      "description": [
+        "Ich bin zutiefst interessiert an der transformativen Kraft von <b class='text-primary'>KI</b>, <b class='text-primary'>Generativer KI</b> und <b class='text-primary'>LLMs</b> und erforsche ihr Potenzial, Arbeitsabläufe zu verbessern und reale Probleme zu lösen. Tools wie <b class='text-primary'>N8N-Workflows</b> begeistern mich, da sie Automatisierung und Intelligenz in alltägliche Aufgaben bringen. Außerhalb der Technik genieße ich es, in <b class='text-primary'>paschtunische Poesie</b> einzutauchen, mich für sinnvolle Zwecke zu engagieren und ständig mit neuen Frameworks zu experimentieren, um in diesem sich ständig weiterentwickelnden Bereich vorne zu bleiben.",
+        "Ich freue mich immer über neue Herausforderungen, die Zusammenarbeit mit gleichgesinnten Fachleuten und die Mitwirkung an wirkungsvollen Projekten. Lass uns gemeinsam etwas Unglaubliches schaffen!"
+      ]
+    },
+    "card1": {
+      "title": "Frontend-Entwicklung",
+      "description": "Erstellung skalierbarer, responsiver Webanwendungen mit React, Next.js, TypeScript und Redux."
+    },
+    "card6": {
+      "title": "UI-Komponenten",
+      "description": "Erstellung wiederverwendbarer UI-Komponenten mit Bootstrap, Tailwind, MUI und Ant CSS-in-JS-Bibliotheken."
+    },
+    "card3": {
+      "title": "Benutzererfahrung",
+      "description": "Entwicklung reibungsloser, benutzerfreundlicher Schnittstellen, die Barrierefreiheit und Leistung priorisieren."
+    },
+    "card4": {
+      "title": "Tests & Optimierung",
+      "description": "Implementierung umfassender Tests und Leistungsoptimierung mit Jest, Cypress und verschiedenen Tools."
+    },
+    "card5": {
+      "title": "Datenbankverwaltung",
+      "description": "Entwurf und Verwaltung skalierbarer Datenbanken mit MySQL, Postgres, DynamoDB und Prisma ORM."
+    },
+    "card2": {
+      "title": "Backend-Entwicklung",
+      "description": "Erstellung sicherer und effizienter APIs mit Node.js, Express und NestJS für nahtlose Integration."
+    },
+    "card7": {
+      "title": "Sicherheit & Authentifizierung",
+      "description": "Implementierung robuster Authentifizierungs-, Autorisierungs- und Datenschutzstrategien mit JWT, OAuth und mehr."
+    },
+    "card8": {
+      "title": "Cloud & DevOps",
+      "description": "Bereitstellung von Anwendungen mit Containerisierung durch Docker und Verwaltung von CI/CD-Pipelines für reibungslose Auslieferung."
+    },
+    "card9": {
+      "title": "Workflow-Automatisierung",
+      "description": "Optimierung von Prozessen und Automatisierung von Workflows mit Tools wie N8N, KI-Integrationen und Skripten."
+    },
+    "card10": {
+      "title": "KI & Generative Modelle",
+      "description": "Erforschung von KI, Generativer KI und LLMs zur Erstellung intelligenterer, datengesteuerter Lösungen für moderne Anwendungen."
+    }
+  },
+  "footer": {
+    "allRightsReserved": "Alle Rechte vorbehalten.",
+    "developedBy": "Entwickelt von"
+  },
+  "contact": {
+    "title": "Lass uns zusammenarbeiten",
+    "description": "Ich bin immer offen für die Diskussion neuer Projekte, kreativer Ideen oder Möglichkeiten, Teil Ihrer Vision zu sein.",
+    "contactInfo": "Kontaktinformationen",
+    "contactInfoDescription": "Sie können mich gerne über eine der folgenden Methoden kontaktieren oder das Formular ausfüllen. Ich melde mich so schnell wie möglich bei Ihnen.",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "location": "Standort",
+    "yourName": "Ihr Name",
+    "yourEmail": "Ihre E-Mail",
+    "yourMessage": "Ihre Nachricht",
+    "messagePlaceholder": "Hallo, ich möchte über... sprechen",
+    "sendMessage": "Nachricht senden",
+    "sendMeAMessage": "Schicken Sie mir eine Nachricht",
+    "workingHours": "Arbeitszeiten",
+    "monday": "Montag",
+    "tuesday": "Dienstag",
+    "wednesday": "Mittwoch",
+    "thursday": "Donnerstag",
+    "friday": "Freitag",
+    "saturday": "Samstag",
+    "sunday": "Sonntag",
+    "closed": "Geschlossen",
+    "messageSent": "Nachricht gesendet!",
+    "messageSentDescription": "Vielen Dank für Ihre Nachricht. Ich melde mich so schnell wie möglich bei Ihnen!",
+    "sending": "Wird gesendet..."
+  },
+  "education": {
+    "title": "Ausbildung & Auszeichnungen",
+    "subtitle": "Akademischer Hintergrund",
+    "card1": {
+      "title": "Bachelor of Science in Informatik",
+      "subtitle": "Islamia College Universität Peshawar",
+      "description": "Ich habe meinen Abschluss mit einem CGPA von 3,89 gemacht und wurde als Goldmedaillengewinner meines Jahrgangs ausgezeichnet."
+    },
+    "card2": {
+      "title": "Goldmedaillengewinner",
+      "subtitle": "Höchste akademische Auszeichnung",
+      "description": "Verleihung der Goldmedaille für den höchsten CGPA in meinem Abschlussjahrgang am Islamia College Universität Peshawar."
+    },
+    "card3": {
+      "title": "Schulung in Gen AI, Cybersicherheit und DevOps",
+      "subtitle": "S&P Global",
+      "description": "Abschluss einer umfassenden Schulung zu Gen AI, Cybersicherheit und DevOps bei S&P Global."
+    },
+    "card4": {
+      "title": "Expertise in Cloud Computing, KI/ML und Risikocompliance",
+      "subtitle": "S&P Global",
+      "description": "Erwerb von Expertise in Cloud Computing, KI/ML und Risikocompliance bei S&P Global."
+    }
+  },
+  "experience": {
+    "title": "Berufserfahrung",
+    "subtitle": "Wo ich gearbeitet habe",
+    "description": "Ich hatte die Gelegenheit, mit einigen großartigen Unternehmen zusammenzuarbeiten. Hier ist ein kurzer Überblick über meinen beruflichen Werdegang.",
+    "keyAchievements": "Wichtige Leistungen",
+    "sp-global": {
+      "title": "Frontend-Entwickler",
+      "company": "S&P Global",
+      "location": "Remote",
+      "type": "Vollzeit",
+      "period": "2023 - Heute",
+      "description": "S&P Global bietet Marktdaten, Technologielösungen und finanzielle Einblicke für Unternehmen und Regierungen weltweit.",
+      "responsibilities": [
+        "Entwicklung responsiver, benutzerfreundlicher Webanwendungen mit React, Next.js, TypeScript und Redux.",
+        "Implementierung komplexer UI-Komponenten mit Bootstrap, Tailwind, MUI und Ant CSS-in-JS-Bibliotheken.",
+        "Optimierung der Leistung und Barrierefreiheit der Benutzeroberfläche.",
+        "Durchführung umfassender Tests und Leistungsoptimierungen mit Jest, Cypress und verschiedenen Tools.",
+        "Zusammenarbeit mit funktionsübergreifenden Teams zur Bereitstellung hochwertiger Softwarelösungen.",
+        "Teilnahme an Code-Reviews und konstruktives Feedback an Mitentwickler.",
+        "Implementierung von State-Management mit Redux, Context API & React Query für verbesserte Leistung und Barrierefreiheit.",
+        "Leitung der agilen Entwicklung mit täglichen Scrums für nahtlose Teamzusammenarbeit.",
+        "Mitwirkung an Capital IQ Pro, einer erstklassigen Finanzplattform, durch Entwicklung skalierbarer, modularer Frontends."
+      ]
+    },
+    "iplex": {
+      "title": "Frontend-Entwickler",
+      "company": "iPlex",
+      "location": "Islamabad",
+      "type": "Vollzeit",
+      "period": "2019 - 2023",
+      "description": "iPlex ist eine erstklassige Digitalagentur, die sich auf Softwareentwicklung, Webanwendungen und digitales Marketing für Unternehmen in den USA spezialisiert.",
+      "responsibilities": [
+        "Entwicklung und Wartung von React-basierten Anwendungen mit Fokus auf Leistung, Benutzererfahrung und plattformübergreifender Kompatibilität.",
+        "Erstellung skalierbarer, thematisierbarer Webanwendungen für einfache Projektreplikation.",
+        "Implementierung komplexer UI-Komponenten mit Bootstrap, Tailwind, MUI und Ant CSS-in-JS-Bibliotheken.",
+        "Durchführung täglicher Code-Reviews zur Sicherstellung von Stabilität, Leistung und Einhaltung agiler Methoden.",
+        "Leitung der Frontend-Entwicklung für die Al Habib Pharmacy E-Commerce-Plattform mit Next.js, TypeScript und Tailwind CSS.",
+        "Entwicklung eines zentralen Datenmanagementsystems für das Salam Telecom DMS Portal für Transaktionen, Guthabenaufladungen und Benutzeraktivitäten."
+      ]
+    }
+  },
+  "skills": {
+    "title": "Meine Expertise",
+    "subtitle": "Technische Fähigkeiten und Expertise",
+    "description": "Mein technisches Toolkit wurde über mehr als 6 Jahre Berufserfahrung verfeinert, mit Schwerpunkt auf Frontend- und Backend-Technologien sowie modernen Entwicklungspraktiken. Hier ist ein umfassender Überblick über die Fähigkeiten und Expertise, die ich einbringe:",
+    "frontend": "Frontend-Frameworks & Bibliotheken",
+    "ui": "UI & Styling",
+    "state": "State-Management & Datenabruf",
+    "testing": "Tests & Entwicklertools",
+    "frontendArchitecture": "Architektur",
+    "buildTools": "Build & Leistungsoptimierung",
+    "backend": "Backend-Frameworks & Bibliotheken",
+    "database": "Datenbanken",
+    "security": "Sicherheit & Authentifizierung",
+    "devOps": "DevOps & Bereitstellung",
+    "workflowAutomation": "Workflow-Automatisierung",
+    "ai": "KI & Generative Modelle",
+    "level": [
+      "Anfänger",
+      "Grundkenntnisse",
+      "Mittelstufe",
+      "Fortgeschritten",
+      "Experte"
+    ]
+  },
+  "projects": {
+    "title": "Portfolio",
+    "subtitle": "Ausgewählte Projekte",
+    "description": "Eine Auswahl meiner aktuellen Arbeiten und persönlichen Projekte, die meine Fähigkeiten und Erfahrungen zeigen.",
+    "capital-iq-pro": {
+      "title": "Capital IQ Pro",
+      "description": "Erstklassige Finanzplattform mit modularer Frontend-Architektur, Echtzeit-Marktdaten und interaktiven Visualisierungen."
+    },
+    "al-habib-pharmacy": {
+      "title": "Al Habib Pharmacy E-Commerce",
+      "description": "Vollständige E-Commerce-Plattform für eine Apotheke mit Produktkatalog, Benutzerkonten und Rezeptverwaltung."
+    },
+    "salam-telecom-dms": {
+      "title": "Salam Telecom DMS Portal",
+      "description": "Zentrales Datenmanagementsystem für Telekommunikationstransaktionen, Guthabenaufladungen und Benutzeraktivitätsverfolgung."
+    },
+    "market-data-dashboard": {
+      "title": "Marktdaten-Dashboard",
+      "description": "Echtzeit-Dashboard für Finanzmarktdaten mit interaktiven Diagrammen und anpassbaren Widgets."
+    },
+    "personal-website": {
+      "title": "Persönliches Portfolio",
+      "description": "Responsive Portfolio-Website mit modernen Animationen, Interaktionen und optimierter Leistung."
+    },
+    "expense-tracker": {
+      "title": "Ausgaben-Tracker-App",
+      "description": "Personal Finance-Anwendung mit Budgetierung, Ausgabenkategorisierung und Visualisierungsfunktionen."
+    },
+    "salam-telecom-dashboard": {
+      "title": "Salam Telecom Dashboard",
+      "description": "Echtzeit-Dashboard für Telekommunikationstransaktionen, Guthabenaufladungen und Benutzeraktivitätsverfolgung."
+    },
+    "personal-website-2": {
+      "title": "Persönliches Portfolio V2",
+      "description": "Responsive Portfolio-Website mit modernen Animationen, Interaktionen und optimierter Leistung."
+    },
+    "job-copilot": {
+      "title": "Job Copilot",
+      "description": "Der Job Copilot ist ein intelligenter Job-Bewerbungsassistent, der Ihnen hilft, Ihre Jobsuche zu verfolgen, zu verwalten und zu automatisieren. Egal, ob Sie sich auf mehrere Positionen bewerben oder Leads verfolgen – dieses Tool hält alles an einem Ort organisiert."
+    },
+    "quantum": {
+      "title": "Quantum Trading-Plattform",
+      "description": "Eine Fintech-Handelsplattform mit Echtzeit-Datenvisualisierung, WebSockets und Machine-Learning-Integrationen."
+    },
+    "smart-home": {
+      "title": "Smart Home Automation",
+      "description": "Die Smart Home Automation-Plattform ermöglicht es Benutzern, ihre Smart-Home-Geräte mühelos zu steuern und zu überwachen. Mit Echtzeit-Updates, Zeitplan-Automatisierung und Sprachassistenten-Integration bietet sie ein nahtloses und intelligentes Heimmanagement."
+    },
+    "talent-matrix": {
+      "title": "Talent Matrix",
+      "description": "Talent Matrix ist ein modernes HR-System für Stellenausschreibungen und Bewerbungsverfolgung, das Rekrutierungsabläufe vereinfacht. Egal, ob Sie HR-Fachkraft, Hiring Manager oder Recruiter sind – Talent Matrix optimiert Stellenausschreibungen, verfolgt Bewerbungen und verbessert die Einstellungseffizienz mit einer benutzerfreundlichen Oberfläche."
+    },
+    "impact-cv": {
+      "title": "Impact CV",
+      "description": "ImpactCV ist eine moderne, intuitive und benutzerfreundliche Webanwendung, die Ihnen ermöglicht, professionelle und wirkungsvolle Lebensläufe (CVs) einfach zu erstellen. Egal, ob Sie gerade erst in Ihren Beruf starten oder eine Veränderung anstreben – ImpactCV bietet die Tools und Flexibilität, die Sie benötigen, um Ihre Fähigkeiten und Erfahrungen effektiv zu präsentieren."
+    }
+  }
+}
