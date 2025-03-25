@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { ArrowDown, Github, Linkedin, Mail, MapPin } from 'lucide-react';
-import profilePic from '/profile.jpg';
+import profilePic from '/profile-2.png';
 import { useTranslation } from 'react-i18next';
 
 export function Hero() {
