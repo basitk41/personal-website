@@ -123,7 +123,7 @@ export function Projects() {
         'Responsive portfolio website with modern animations, interactions, and optimized performance.',
       image: '/images/portfolio-1.png',
       tags: ['React', 'Vite', 'TailwindCSS', 'Framer Motion'],
-      github: 'https://github.com/basitk41/portfolio',
+      github: 'https://github.com/basitk41/personal-website',
       link: 'https://basit-dev.de',
     },
     {
